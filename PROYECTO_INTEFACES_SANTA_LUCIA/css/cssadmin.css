@@ -1,0 +1,38 @@
+﻿body {
+    margin-top:20px ;
+    padding: 0;
+    height: 94%;
+    background: #79B0C8 !important;
+}
+.btn {
+    color: #EDEDED;
+    border-radius: 0.5em;
+}
+
+.contenedorAdmin {
+    background: #EDEDED;
+    border-radius: 0.5em;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+#sticky-footer {
+    background: #085394;
+    color: #EDEDED;
+}
+.lblUsuario {
+    background: #085394;
+    color: #EDEDED;
+    margin-bottom: 20px;
+    border-radius: 0.5em;
+    width: 50%;
+    padding:10px;
+}
+.logopage {
+    text-align: right;
+}
+#logo {
+    width:100px;
+}
+li{
+    padding-bottom:15px;
+}
